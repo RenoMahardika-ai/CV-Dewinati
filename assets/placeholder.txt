@@ -1,0 +1,18 @@
+// Placeholder for images and assets
+// Replace these with actual images:
+// - hero-illustration.svg (500x400px hero illustration)
+// - profile-photo.jpg (300x300px professional headshot)
+// - cv-it-support.pdf (PDF resume)
+// - favicon.ico (32x32px favicon)
+
+// Recommended image sources:
+// - Unsplash.com for professional photos
+// - Undraw.co for illustrations
+// - Flaticon.com for icons
+// - Canva.com for custom graphics
+
+// Image optimization tips:
+// - Use WebP format for better compression
+// - Compress images to <100KB for web
+// - Use responsive images with srcset
+// - Add alt text for accessibility
